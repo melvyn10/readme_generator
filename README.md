@@ -2,7 +2,7 @@
 # Project Title : README generator
 
 ## Project Description:
-auto generation of README file
+auto generation of readme files
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,8 +12,8 @@ auto generation of README file
 * [Test](#test)
 * [Questions](#questions)
 
-## Installationca
-run index.js
+## Installation
+node index.js
 
 ## Usage
 node index.js
@@ -32,10 +32,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 me
 
 ## Test
-do not have any
+none
 
 ## Questions
-For questions, email me at xyz@xyz.com
+For questions, contact melvyn10 on GitHub 
+For questions, email me at 123@abc
 
 ## Badges
 
