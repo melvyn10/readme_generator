@@ -29,8 +29,8 @@ ${inputs.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributor](#contributor)
-* [Test](#test)
+* [Contributors](#contributors)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
@@ -45,14 +45,14 @@ ${licenseBlurb}
 ## Contributors
 ${inputs.contributor}
 
-## Test
+## Tests
 ${inputs.test}
 
 ## Questions
 ${questionBlurb}
 
 ## Badges
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 `;
 }
 
