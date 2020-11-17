@@ -40,3 +40,5 @@ For questions, email me at 123@abc.io
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![Alt Text](https://melvyn10.github.io/readme_generator/README-generator.gif)
