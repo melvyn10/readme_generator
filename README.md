@@ -2,7 +2,7 @@
 # Project Title : Readme generator
 
 ## Project Description:
-This application generates README file automatically by asking a number of questoins
+This application generates README file automatically by asking a number of questions
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ This application generates README file automatically by asking a number of quest
 go to github, download codes, install appropriate npm packages
 
 ## Usage
-mode index.js
+node index.js
 
 ## License
 MIT License
