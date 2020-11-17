@@ -1,8 +1,8 @@
 
-# Project Title : README generator
+# Project Title : Readme generator
 
 ## Project Description:
-auto generation of README file
+This application generates README file automatically by asking a number of questoins
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,10 +13,10 @@ auto generation of README file
 * [Questions](#questions)
 
 ## Installation
-download files, install code
+go to github, download codes, install appropriate npm packages
 
 ## Usage
-node index.js
+mode index.js
 
 ## License
 MIT License
@@ -32,11 +32,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 me
 
 ## Tests
-none
+run node index.js, enter the appropriate data
 
 ## Questions
 For questions, contact melvyn10 on GitHub 
-For questions, email me at 123@cba
+For questions, email me at 123@abc.io
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
